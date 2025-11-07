@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Bettafish
+- 🔭 I’m currently working on [Bettafish](https://github.com/666ghj/BettaFish)
 - 🌱 I’m currently learning AI Agent
 - 👯 I’m looking to collaborate on AI Agent Project
 - actively seeking internship opportunities

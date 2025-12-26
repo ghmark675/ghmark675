@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Bettafish](https://github.com/666ghj/BettaFish)
-- 🌱 I’m currently learning AI Agent
-- 👯 I’m looking to collaborate on AI Agent Project
-- actively seeking internship opportunities
+I'm currently studying AI Agents and backend development. I'm passionate about technology, especially how AI can improve productivity and solve real-world problems. I'm excited to keep learning and hope to find my place in this fast-evolving field. Looking forward to sharing and exchanging more tech experiences!
 
 ## 🏆 Achievements
 

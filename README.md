@@ -1,8 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm ghmark675
 
-I'm currently studying Computer Science
+I'm a Master's student in Computer Science at Beijing University of Posts and Telecommunications (BUPT)
 
-## 🏆 Achievements
+## 🔬 Interests
 
-* International Collegiate Programming Contest (ICPC) Asia Regional: Silver Medal
-* China Collegiate Programming Contest (CCPC): Bronze Medal
+* Computer Science
+* Computer Vision
+* AI Agents
+* AI Infrastructure
+* Large Language Models
+
+## 🌱 About Me
+
+I enjoy building AI projects, reading papers, and contributing to open-source communities. I'm always looking for opportunities to learn and collaborate.
